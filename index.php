@@ -1,3 +1,3 @@
 <?php
-echo "Nihao!";
+echo " Niheo. Wo shihoa ni!"
 ?>
